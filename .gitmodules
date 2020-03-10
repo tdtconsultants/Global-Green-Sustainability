@@ -1,0 +1,4 @@
+[submodule "tdtconsultants/globalgreensolutions"]
+	path = tdtconsultants/globalgreensolutions
+	url = git@github.com:tdtconsultants/globalgreensolutions.git
+	branch = master
